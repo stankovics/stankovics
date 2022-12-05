@@ -27,17 +27,15 @@
   
   ---
 <div align="left">
-About Me :   :man_technologist:<br> 
-<br>
-   
-  
+  <h3>:man_technologist: About Me :    </h3><br> 
+
 </div>  
   
 </div>
 
-<p>
+<h5>
 Front-End Developer | WordPress | WooCommerce & Elementor Expert
-<p>  
+</h5>  
   
 - :telescope: I’m a front-end web developer specializing in WordPress. I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, JS.
 
@@ -62,7 +60,7 @@ Front-End Developer | WordPress | WooCommerce & Elementor Expert
   
   ---
 <div align="left">
-:hammer_and_wrench: Languages and Tools : <br>
+  <h3>:hammer_and_wrench: Languages and Tools : </h3> <br>
   <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -83,7 +81,7 @@ Front-End Developer | WordPress | WooCommerce & Elementor Expert
   
   ---
 <div align="left">
-  :fire: My Stats : <br>
+  <h3> :fire: My Stats : </h3> <br>
   <br>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stankovics&theme=dark)](https://git.io/streak-stats)
@@ -95,7 +93,7 @@ Front-End Developer | WordPress | WooCommerce & Elementor Expert
   
   ---
 <div align="left">  
-- :mailbox: How to reach me: <br>
+ <h3> :mailbox: How to reach me: </h3> <br>
   <br>
 <div id="header" align="left">
   <div id="badges">
