@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://i.imgur.com/Ix2froW.jpeg" width="100%"/>
+  <img src="https://i.imgur.com/Ix2froW.jpeg" width="50%"/>
 </div>
