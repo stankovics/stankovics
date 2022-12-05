@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?" alt="Telegram Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/UpWork-green?style=for-the-badge&logo=youtube&logoColor=white" alt="UpWork"/>
