@@ -27,16 +27,13 @@
   
   ---
 <div align="left">
-  <h3>:man_technologist: About Me :    </h3><br> 
-
+  <h3>:man_technologist: About Me : </h3><br> 
 </div>  
-  
 </div>
-
-<h5>
+<h4>
 Front-End Developer | WordPress | WooCommerce & Elementor Expert
-</h5>  
-  
+</h4>  
+<br>  
 - :telescope: I’m a front-end web developer specializing in WordPress. I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, JS.
 
 - :gift: Limited time to my clients :point_right: 1 year free subscription of ElementorPro & CrocoBlock plugins (~$200)
