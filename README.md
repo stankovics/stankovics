@@ -105,7 +105,7 @@ Front-End Developer | WordPress | WooCommerce & Elementor Expert
   </a>
 </div>  
   
-Please feel free to contact me. <br>
+Please feel free to contact me  <br>
 
 Thanks for stopping by, <br>
 Stefan
