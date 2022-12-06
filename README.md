@@ -34,6 +34,7 @@
 Front-End Developer | WordPress | WooCommerce & Elementor Expert
 </h4>  
 <br>  
+
 - :telescope: I’m a front-end web developer specializing in WordPress. I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, JS.
 
 - :gift: Limited time to my clients :point_right: 1 year free subscription of ElementorPro & CrocoBlock plugins (~$200)
