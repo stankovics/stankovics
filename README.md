@@ -21,7 +21,7 @@
   
 <div align="center">
   
-  <img src="https://i.imgur.com/soHzDu5.jpeg" width="400" height="300"/>
+  <img src="https://i.imgur.com/Kt1ItjN.jpg" width="400" height="300"/>
   
 </div> 
   
