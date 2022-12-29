@@ -50,7 +50,7 @@ Front-End Developer |  UI/UX Designer | WordPress, WooCommerce & Elementor Exper
   :pushpin: Fixing hacked/infected websites <br>
   :pushpin: Malware removal <br>
   
-- :eyeglasses: My main focus on your website/online store is to transform as many visitors as possible into customers by designing and developing unique, target audience-friendly, and eye-catching website. Consumers should have zero difficulties in finding the products they want.
+- :eyeglasses: My main focus on website/online store is to transform as many visitors as possible into customers by designing and developing unique, target audience-friendly, and eye-catching website. Consumers should have zero difficulties in finding the products they want.
   
   
 </div> 
