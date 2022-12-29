@@ -31,7 +31,7 @@
 </div>  
 </div>
 <h4>
-Front-End Developer | WordPress | WooCommerce & Elementor Expert
+Front-End Developer |  UI/UX Designer | WordPress, WooCommerce & Elementor Expert
 </h4>  
 <br>  
 
