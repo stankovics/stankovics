@@ -37,18 +37,6 @@ Front-End Developer |  UI/UX Designer | WordPress, WooCommerce & Elementor Exper
 
 - :telescope: I’m a front-end web developer specializing in WordPress. I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, JS.
 
-
-- :loudspeaker: Services I proved to my clients:<br>
-  :pushpin: Landing page design & develop for products, apps.. <br>
-  :pushpin: Design & develop WordPress website <br>
-  :pushpin: Redesign of your existing WordPress website <br>
-  :pushpin: WooCommerce for online stores + payment integration, cart process... <br>
-  :pushpin: WordPress membership sites <br>
-  :pushpin: WordPress migrations <br>
-  :pushpin: Page speed optimization and performance improvement <br>
-  :pushpin: Cloning WordPress websites <br>
-  :pushpin: Fixing hacked/infected websites <br>
-  :pushpin: Malware removal <br>
   
 - :eyeglasses: My main focus on website/online store is to transform as many visitors as possible into customers by designing and developing unique, target audience-friendly, and eye-catching website. Consumers should have zero difficulties in finding the products they want.
   
