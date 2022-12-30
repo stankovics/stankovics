@@ -2,14 +2,6 @@
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  <div id="badges">
-  <a href="https://t.me/stankovicstefan">
-    <img src="https://img.shields.io/badge/Telegram-blue?" alt="Telegram Badge"/>
-  </a>
-  <a href="https://stefanstankovic.com/">
-    <img src="https://img.shields.io/badge/Portfolio-orange?" alt="Portfolio"/>
-  </a>
-</div>
   
 <h1>
   hey there
