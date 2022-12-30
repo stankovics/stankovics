@@ -71,8 +71,8 @@ Front-End Developer |  UI/UX Designer | WordPress, WooCommerce & Elementor Exper
   <br>
 <div id="header" align="left">
   <div id="badges">
-  <a href="https://t.me/stankovicstefan">
-    <img src="https://img.shields.io/badge/Telegram-blue?" alt="Telegram Badge"/>
+  <a href="https://contact.stefanstankovic.com">
+    <img src="https://img.shields.io/badge/Contact-blue?" alt="Contact Badge"/>
   </a>
   
   <a href="https://stefanstankovic.com/">
