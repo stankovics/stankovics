@@ -85,9 +85,7 @@ Front-End Developer |  UI/UX Designer | WordPress, WooCommerce & Elementor Exper
   <a href="https://t.me/stankovicstefan">
     <img src="https://img.shields.io/badge/Telegram-blue?" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/stankovicstefan">
-    <img src="https://img.shields.io/badge/UpWork-green?" alt="UpWork"/>
-  </a>
+  
   <a href="https://stefanstankovic.com/">
     <img src="https://img.shields.io/badge/Portfolio-orange?" alt="Portfolio"/>
   </a>
