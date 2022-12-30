@@ -35,10 +35,10 @@ Front-End Developer |  UI/UX Designer | WordPress, WooCommerce & Elementor Exper
 </h4>  
 <br>  
 
-- :telescope: I’m a front-end web developer specializing in WordPress. I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, JS.
+ :telescope: I’m a front-end web developer specializing in WordPress. I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, JS.
 
   
-- :eyeglasses: My main focus on website/online store is to transform as many visitors as possible into customers by designing and developing unique, target audience-friendly, and eye-catching website. Consumers should have zero difficulties in finding the products they want.
+
   
   
 </div> 
