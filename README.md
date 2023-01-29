@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="#" width="100"/>
+  
   
   
 <h1>
@@ -10,7 +10,7 @@
   
 <div align="center">
   
-  <img src="https://i.imgur.com/qXkqz3L.jpeg" width="400" height="300"/>
+  <img src="#" width="400" height="300"/>
   
 </div> 
   
